@@ -1,0 +1,9 @@
+If you do not know how to use axon, please read these instructions:
+
+<3 no homo made by speedsterkawaii B)
+
+1: Open "Axon.sln", Make sure C++ is Installed on the Computer.
+2: Go to Main.cpp if you would like to "edit" the text/strings.
+3: Go to r_lua.h and update the addresses/ccv/states for updates.
+4: Click Ctrl + B to Compile the DLL, Put the Mode in the following:
+5: Use Debug or Release for the Compiliation to Complete, Enjoy :D
