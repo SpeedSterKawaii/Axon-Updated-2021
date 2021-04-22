@@ -11,4 +11,4 @@ Please view "How to use.txt" for Starters.
 
 Not hard, either go to v3rm or just go to wrd you can see them.
 
-if you need any help contact me dm me on discord SpeedSterKawaii#5233.
+If you need any help contact me dm me on discord SpeedSterKawaii#5233.
